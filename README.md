@@ -35,6 +35,8 @@ Authentication Introduction
     - if the passwords do not match send the message `User with email ${email} incorrect password`
 
 ### Client
-
+- Create class based parent component `AppContainer` and route to class based components `Login` and `Register`
+- In the `Login` component create a controlled component form that calls the post endpoint to login a user and console log the json response
+- In the `Register` component create a controlled component form that calls the post endpoint to register a user and console log the json response 
 
 [JSON Web Tokens Documentation](https://jwt.io/) | [Passport Documentation](http://www.passportjs.org/packages/passport-jwt/) | [Tutorial](https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-1-c405048e3669)
