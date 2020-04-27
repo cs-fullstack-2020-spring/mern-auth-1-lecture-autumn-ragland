@@ -28,5 +28,4 @@ Authentication Introduction
     - save the new user
 
 
-JSON Web Tokens - https://jwt.io/
-Passport - http://www.passportjs.org/packages/passport-jwt/
+[JSON Web Tokens Documentation](https://jwt.io/) | [Passport Documentation](http://www.passportjs.org/packages/passport-jwt/) | [Tutorial](https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-1-c405048e3669)
